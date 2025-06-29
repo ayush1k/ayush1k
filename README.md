@@ -67,7 +67,6 @@ A desktop GUI app built using Tkinter, for encrypting images using XOR operation
 - 🧠 Pair Extraordinaire  
 - 🦈 Pull Shark  
 - ⚡ Quickdraw  
-- 🔧 First PR and Issue Opened: [blah-blah-blah](https://github.com/ayush1k/blah-blah-blah)
 
 ---
 
