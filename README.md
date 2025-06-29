@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Kumar ([@http_ayush](https://twitter.com/http_ayush)) &nbsp; ![Visitor Count](https://komarev.com/ghpvc/?username=ayush1k&style=flat-square)
 
-### Full-Stack Developer | AI/ML Enthusiast | Python + JS Lover  
+### Full-Stack Developer | AI/ML Enthusiast | Python + JS 
 Growing one commit at a time 🚀
 
 ---
