@@ -75,6 +75,40 @@ A desktop GUI app built using Tkinter, for encrypting images using XOR operation
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush1k&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1k&layout=compact&theme=radical)
 
+
+
+## 🧰 Skills & Certifications
+
+### 👨‍💻 Technical Skills
+- **Programming Languages**: Python, JavaScript, C, SQL, HTML5, CSS3, PHP
+- **Frameworks & Libraries**: React.js, Node.js, Flask, Bootstrap, Tkinter, Scikit-learn
+- **Web Development**: Responsive Web Design, Front-End Design, WordPress Development
+- **Machine Learning/AI**: Linear Regression, SVM, CNN, DEtection TRansformer (DETR), Deep Learning, Prompt Engineering
+- **Tools & Platforms**: Git, XAMPP, VS Code, Jupyter Notebook, Firebase, Supabase, Google Cloud Platform (GCP), Vertex AI
+- **Database Management**: MongoDB, MySQL, NoSQL, DBMS (SQL and NoSQL)
+
+### 🧪 Certifications
+- **AI/ML & Prompting**:  
+  - Introduction to Generative AI, Vertex AI, Large Language Models, Responsible AI  
+- **Software Engineering**:  
+  - Agile Scrum in Practice, Software Engineering and Agile Development  
+- **Database Systems**:  
+  - Introduction to NoSQL, DBMS Part 1 & 2  
+- **Digital Marketing**:  
+  - Fundamentals of Digital Marketing, Email Marketing, SEO, SEM, Social Media Marketing  
+- **Communication & Soft Skills**:  
+  - High Impact Presentations, Time Management, Email Writing, Written Communication
+
+### 🛠 Additional Capabilities
+- Chatbot Development  
+- Image Encryption  
+- Financial Management Systems  
+- Event Planning & Social Media Management (TPC Role at REC Kannauj)  
+- Kali Linux, RDP, Networking (CDAC Internship)  
+- Creative & Analytical Thinking, Teamwork, Attention to Detail
+
 ---
 
 _Thanks for visiting my profile! Let’s build something awesome together 🤝_
+
+---
