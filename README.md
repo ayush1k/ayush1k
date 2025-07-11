@@ -3,6 +3,8 @@
 ### Full-Stack Developer | AI/ML Enthusiast | Python + JS 
 Growing one commit at a time 🚀
 
+![Animated Welcome](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd1enI3enV6MzVhZm42eThyYzFpNGZydGRweDhscTNpNGFuYWs0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif)
+
 ---
 
 ## 🧠 About Me
