@@ -52,8 +52,14 @@ A recent B.Tech CSE graduate from Rajkiya Engineering College, Kannauj, with a p
 
 ## 🏆 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush1k&show_icons=true&theme=radical)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush1k&show_icons=true&theme=radical&show=prs_merged,discussions_answered)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1k&layout=compact&theme=radical)
+
+### 🔥 My GitHub Streaks
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ayush1k&theme=radical)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayush1k&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
