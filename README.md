@@ -9,7 +9,7 @@ Growing one commit at a time 🚀
 
 ## 🧠 About Me
 
-A recent B.Tech CSE graduate from Rajkiya Engineering College, Kannauj, with a passion for building intelligent and scalable web applications. I'm a full-stack developer skilled in **React**, **Node.js**, **Python**, **JavaScript**, and **Tailwind CSS**. I love open-source contributions and am always curious about AI/ML, automation, and secure systems.
+I am currently pursuing my M.Tech from the Institute of Engineering and Technology, Lucknow, specializing in **Artificial Intelligence and Data Science**.I have done my B.Tech in CSE from Rajkiya Engineering College Kannauj I have a passion for building intelligent and scalable web applications. I'm a full-stack developer skilled in **React**, **Node.js**, **Python**, **JavaScript**, and **Tailwind CSS**. I love open-source contributions and am always curious about AI/ML, automation, and secure systems.
 
 ---
 
@@ -34,10 +34,7 @@ A recent B.Tech CSE graduate from Rajkiya Engineering College, Kannauj, with a p
 
 ## 🌱 Currently Learning
 
-- React Context API, Hooks, and advanced state management
-- Building scalable full-stack apps
 - Machine Learning using Python
-- Participating in [Summer Analytics 2025](https://github.com/ayush1k/SUMMER-ANALYTICS-2025-Assessment-week-1)
 
 ---
 
