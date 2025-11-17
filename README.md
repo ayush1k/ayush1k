@@ -7,31 +7,6 @@ Growing one commit at a time 🚀
 
 ---
 
-## 🧠 About Me
-
-I am currently pursuing my M.Tech from the Institute of Engineering and Technology, Lucknow, specializing in **Artificial Intelligence and Data Science**.I have done my B.Tech in CSE from Rajkiya Engineering College Kannauj I have a passion for building intelligent and scalable web applications. I'm a full-stack developer skilled in **React**, **Node.js**, **Python**, **JavaScript**, and **Tailwind CSS**. I love open-source contributions and am always curious about AI/ML, automation, and secure systems.
-
----
-
-## ⚙️ Skills & Tech Stack
-
-### Core Skills
-- **Languages:** Python, JavaScript, HTML, CSS, SQL
-- **Frameworks:** React.js, Node.js, Express.js, Flask, Bootstrap
-- **Web Dev:** Responsive Design, Front-End Development, WordPress
-- **AI/ML:** Linear Regression, SVM, CNN, DETR, Prompt Engineering, Scikit-learn
-- **Databases:** MongoDB, MySQL, NoSQL, Supabase, Firebase
-- **Tools:** Git, VS Code, Postman, Jupyter Notebook, XAMPP
-
-### Certifications
-- **AI/ML:** Introduction to Generative AI, Vertex AI, LLMs, Responsible AI
-- **Software Eng:** Agile Scrum in Practice, Agile Development
-- **Database:** Introduction to NoSQL, DBMS Part 1 & 2
-- **Marketing:** Fundamentals of Digital Marketing, SEO, SEM
-- **Soft Skills:** High Impact Presentations, Time Management, Written Communication
-
----
-
 ## 🌱 Currently Learning
 
 - Machine Learning using Python
