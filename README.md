@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dayush1k%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="Profile Views" />
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<img src="https://komarev.com/ghpvc/?username=ayush1k">
+</a>
 
 <h1>Hi, I'm Ayush Kumar!</h1>
 <h3>M.Tech Student in Artificial Intelligence & Data Science @ IET Lucknow</h3>
@@ -15,14 +17,21 @@ With a strong foundation in Computer Science, I specialize in building intellige
 
 <p>
 <a href="mailto:ayushkumar47834@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-ayushkumar47834%2540gmail.com-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/ayushhhhhh">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Ayush%2520Kumar-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://www.google.com/search?q=https://www.kaggle.com/ayushhhhhh">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-Ayush%2520Kumar-20BEFF%3Fstyle%3Dflat-square%26logo%3Dkaggle%26logoColor%3Dwhite" alt="Kaggle" />
+<a href="https://github.com/ayush1k" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="git" />
 </a>
+<a href="https://www.instagram.com/http_ayush" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ayush" />
+</a>
+<a href="https://twitter.com/ft_ayush" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
 </p>
 </div>
 
@@ -47,43 +56,17 @@ With a strong foundation in Computer Science, I specialize in building intellige
 <td><strong>M.Tech in AI & Data Science</strong></td>
 <td>Institute of Engineering & Technology, Lucknow</td>
 <td>2025 – 2027</td>
-<td><em>84% (Ongoing)</em></td>
 </tr>
 <tr>
 <td><strong>B.Tech in Computer Science</strong></td>
 <td>Rajkiya Engineering College, Kannauj</td>
 <td>2021 – 2025</td>
-<td><em>71.1%</em></td>
 </tr>
 </table>
 
 Teaching Assistant | IET Lucknow (Sep 2025 – Present)
 
 Python Intern | Infosys Springboard (Sep 2025 – Nov 2025)
-
-Engineered high-throughput NLP architectures for real-time sentiment analysis.
-
-<hr>
-
-<h3>Featured Projects</h3>
-
-https://www.google.com/url?sa=E&source=gmail&q=https://github.com/ayush1k/Eye-Disease-Classification-EfficientNetB3
-
-Developed a medical diagnostic tool achieving 96.12% validation accuracy.
-
-Utilized Transfer Learning and comprehensive evaluation metrics (ROC, Confusion Matrix).
-
-https://www.google.com/search?q=https://github.com/ayush1k/Leaf-Detection-Transformers
-
-Fine-tuned Facebook’s DETR architecture with a ResNet-50 backbone for state-of-the-art object detection.
-
-Implemented custom collate functions and optimized convergence with AdamW.
-
-https://www.google.com/search?q=https://github.com/ayush1k/Financial-Dashboard-Chatbot
-
-Built a React-Flask pipeline featuring an AI Assistant fine-tuned on DialoGPT-medium.
-
-Integrated a predictive engine (R²: 0.85) to forecast income trends.
 
 <hr>
 
@@ -99,22 +82,60 @@ LinkedIn: Top 5% in Python Skill Assessment
 
 <hr>
 
-<div align="center">
-<h3>GitHub Stats</h3>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dayush1k%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dayush1k%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="languages graph" />
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b> 💻</h2>
 
-<p>
+<table align="center">
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" />
+Python</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" />
+JavaScript</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" />
+C</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" />
+SQL</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" />
+HTML</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" />
+CSS</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=latex" width="55" height="55" />
+LaTex</td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" />
+TensorFlow</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" />
+PyTorch</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=keras" height="55" />
+Keras</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55" />
+Scikit-Learn</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=opencv" width="55" height="55" />
+OpenCV</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=pandas" height="55" />
+Pandas</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=numpy" height="55" />
+NumPy</td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" />
+React</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask" width="55" height="55" />
+Flask</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
+Git</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" />
+GitHub</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" />
+Firebase</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" />
+VS Code</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" />
+Linux</td>
+</tr>
+</table>
 
-
-
-
-
-<em>"I enjoy mentoring and have supervised 75+ undergraduates in full-stack and ML projects.
-
-
-
-
+<hr>
 If you're looking for collaboration on AI research or open-source projects, let's talk!"</em>
 </p>
 </div>
