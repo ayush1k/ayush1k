@@ -1,20 +1,15 @@
 # Hi, I'm Ayush Kumar &nbsp; ![Visitor Count](https://komarev.com/ghpvc/?username=ayush1k&style=flat-square)
----
-First Year Post-Graduate Artificial Intelligence and Data Science Institute of Engineering and Technology Lucknow
----
-## 🏆 GitHub Stats
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush1k&show_icons=true&theme=radical&show=prs_merged,discussions_answered)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1k&layout=compact&theme=radical)
-
-### 🔥 My GitHub Streaks
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush1k)](https://git.io/streak-stats)
-
-### 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayush1k&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+First Year Post-Graduate Artificial Intelligence and Data Science 
+Institute of Engineering and Technology, Lucknow
+
+my resume - https://docs.google.com/document/d/1iG2LxYsWKhOPlwgErX2Ue_8VdEAnD8x7jjXpFR5dmcA/edit?usp=sharing
+
+---
+
+
 ## 📫 Connect With Me
 
 - 📍 Varanasi, Uttar Pradesh
