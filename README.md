@@ -64,6 +64,8 @@ With a strong foundation in Computer Science, I specialize in building intellige
 </tr>
 </table>
 
+Intern | IIT Roorkee (Mar 2026 – Present)
+
 Teaching Assistant | IET Lucknow (Sep 2025 – Present)
 
 Python Intern | Infosys Springboard (Sep 2025 – Nov 2025)
