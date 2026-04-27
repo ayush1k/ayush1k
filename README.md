@@ -40,11 +40,12 @@ With a strong foundation in Computer Science, I specialize in building intellige
 <h3>Technical Expertise</h3>
 
 <ul>
-<li><strong>Languages:</strong> Python (Certified), JavaScript, C, SQL, LaTeX</li>
-<li><strong>Deep Learning:</strong> CNNs (EfficientNet, ResNet), Transformers (DETR), Vision Transformers (ViT)</li>
-<li><strong>Machine Learning:</strong> Supervised & Unsupervised Learning, Ensemble Methods (XGBoost), PCA, DBSCAN</li>
-<li><strong>Frameworks:</strong> TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Flask, React.js</li>
-<li><strong>Tools:</strong> Git, GitHub, Firebase, VS Code, Jupyter Notebook</li>
+<li><strong>Languages:</strong> Python (Expert), JavaScript, C, SQL</li>
+<li><strong>Machine Learning:</strong> Linear/Logistic Regression, Decision Trees, Random Forest, SVM, Naive Bayes, KNN, K-Means, DBSCAN, PCA, XGBoost, AdaBoost, Gradient Boosting</li>
+<li><strong>Deep Learning &amp; Computer Vision:</strong> CNNs (EfficientNet, ResNet), Transformers (DETR, ViT), Transfer Learning, Fine-tuning</li>
+<li><strong>Generative AI &amp; NLP:</strong> RAG (Retrieval-Augmented Generation), LLMs, LangChain, LangGraph</li>
+<li><strong>Frameworks &amp; Libraries:</strong> PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Flask, React.js, FastAPI</li>
+<li><strong>Tools &amp; MLOps:</strong> Git, Jupyter, Docker, SQL, Vector Databases, K-Fold CV, Grid/Random Search, Optuna</li>
 </ul>
 
 <hr>
